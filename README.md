@@ -9,8 +9,8 @@ For Windows users,
 $ pip install opencv-python
 </pre>
 
-# how to capture a png image
+# how to capture a single png image
 $ python cam_pic.py
 
-# how to capture a video image of 10 seconds.
+# how to capture a 10-second video image
 $ python cam.py
