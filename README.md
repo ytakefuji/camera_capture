@@ -7,7 +7,7 @@ $ brew link --overwrite opencv
 
 For Windows users,
 $ pip install opencv-python
-<pre>
+</pre>
 
 # how to capture a png image
 $ python cam_pic.py
